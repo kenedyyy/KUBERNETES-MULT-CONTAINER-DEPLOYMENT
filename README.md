@@ -22,5 +22,6 @@
 + we wil begin by creating a new folder which we will label k8s
 + within the folder we will create a client deployment .yml file which we will use to define our client 
 + we will begin by defining our client
+https://github.com/kenedyyy/KUBERNETES-MULT-CONTAINER-DEPLOYMENT/blob/71d876f7d4950f1600726b1ee2e7df72aa5baef1/client-deployment.yml#L1-L4
 
 
